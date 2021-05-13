@@ -37,3 +37,4 @@ C:\Users\Paula\source\repos\Udemy\Projeto2\SalesWebMvc\SalesWebMvc\obj\Debug\net
 C:\Users\Paula\source\repos\Udemy\Projeto2\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\Paula\source\repos\Udemy\Projeto2\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\Paula\source\repos\Udemy\Projeto2\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\Paula\source\repos\Udemy\Projeto2\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
