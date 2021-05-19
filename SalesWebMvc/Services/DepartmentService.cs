@@ -6,16 +6,16 @@ namespace SalesWebMvc.Services
 {
     public class DepartmentService
     {
-        private readonly SalesWebMvcContext _contex;
+        private readonly SalesWebMvcContext _context;
 
         public DepartmentService(SalesWebMvcContext context)
         {
-            _contex = context;
+            _context = context;
         }
 
         public List<Department> FindAll()
         {
-            return _contex.Department.OrderBy(x => x.Name).ToList();
+            return _context.Department.OrderBy(x => x.Name).ToList();
         }
     }
 }
