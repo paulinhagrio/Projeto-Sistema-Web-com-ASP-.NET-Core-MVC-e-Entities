@@ -122,3 +122,4 @@ C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-A
 C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
