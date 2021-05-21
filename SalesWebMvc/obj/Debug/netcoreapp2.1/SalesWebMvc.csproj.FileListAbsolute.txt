@@ -124,3 +124,6 @@ C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-A
 C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\leand\source\repos\Udemy\Projeto2\SalesWebMvc\Projeto-Sistema-Web-com-ASP-.NET-Core-MVC-e-Entities\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
